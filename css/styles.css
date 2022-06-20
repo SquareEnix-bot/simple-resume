@@ -82,18 +82,18 @@ ol {
   margin-left: 15px;
 }
 
-.project__item {
+.projects__item {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
 }
 
-.project__link {
+.projects__link {
   margin-left: 10px;
 }
 
-.project__bracket {
+.projects__bracket {
   font-weight: 700;
   color: #000;
 }
@@ -142,7 +142,7 @@ ol {
   color: var(--main-text-color);
 }
 
-.profession__title {
+.education__subtitle {
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
@@ -180,7 +180,7 @@ ol {
   margin-bottom: 50px;
 }
 
-.contact__type {
+.contacts__type {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -189,7 +189,7 @@ ol {
   margin-right: 5px;
 }
 
-.contact__link {
+.contacts__link {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -198,8 +198,8 @@ ol {
   transition: color .3s ease-in-out;
 }
 
-.contact__link:hover,
-.contact__link:focus {
+.contacts__link:hover,
+.contacts__link:focus {
   color: #fff;
 }
 
